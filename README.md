@@ -1,2 +1,2 @@
-# Marrakech
+## Marrakech
 Boardgame - Marrakech
